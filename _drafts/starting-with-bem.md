@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Starting with BEM
+tags:
+- css
+- BEM
 ---
 
 BEM has been around for a while now, and there's people who loves it and people who hates it. Here's my opinion on the matter after having used it several times in production in different teams, both in size and seniority.
@@ -88,5 +91,6 @@ Nice! We have a modifier to handle the disabled state that is not coupled to any
 
 I'm planning to write more about bem. I enjoy using it, writing about it and i have  enough experience with it to have identified what i like and what i *don't* like about it. So, here's what i expect to write in the following days.
 
-1. Overuse of BEM. When do i need a BEM component and when do i need just a class.
-2. Using it correctly in large teams. Not everyone is skilled enough to use it correctly and, let's be honest, not everyone care about css.
+1. A more complex example, where we can see more benefits of using BEM.
+2. Overuse of BEM. When do i need a BEM component and when do i need just a class.
+3. Using it correctly in large teams. Not everyone is skilled enough to use it correctly and, let's be honest, not everyone care about css.
