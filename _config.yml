@@ -1,5 +1,5 @@
 # Site settings
-title: "Andrés Sainz de Aja"
+title: "Andrés Sainz de Aja's Blog"
 email: andressainz@gmail.com
 description: "Andrés Sainz de Aja's Blog"
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -10,3 +10,19 @@ github_username:  asainz
 # Build settings
 markdown: kramdown
 highlighter: pygments.rb
+permalink : /:title/
+
+author:
+  name     : 'Andrés Sainz de Aja'
+  email    : andressainz@gmail.com
+  url      : https://github.com/asainz
+  facebook : https://www.facebook.com/andresfsainz
+  twitter  : https://twitter.com/afsainz
+
+github: https://github.com/asainz
+disqus_shortname: "asainz"
+google_analytics: UA-71624996-1
+
+paginate: 10
+comments: true
+paginate_path: "/page/:num"
