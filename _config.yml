@@ -9,8 +9,7 @@ github_username:  asainz
 
 # Build settings
 markdown: kramdown
-highlighter: pygments.rb
-permalink : /:title/
+# highlighter: pygments.rb
 
 author:
   name     : 'Andrés Sainz de Aja'
